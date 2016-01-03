@@ -53,6 +53,9 @@ GitHub：[HeYang](https://github.com/HeYang123456789) ｜ Blog：[HeYang(Chinese
 
 # <a id="Extendible_Examples"></a> Examples【示例】
 
+1、Intrduction Plist file configuration：
 
+
+2、Copy plist item：
 
 ![](http://img.hoop8.com/attachments/1601/7563073401123.gif)
