@@ -252,7 +252,7 @@
     //获取对应父cell的cellModel
     CellModel *parentCellModel = [self getCellModelsRowWithSection:parSection row:parRow];
     
-    NSString* strValue = [NSString stringWithFormat:@"%ld",value];
+    NSString* strValue = [NSString stringWithFormat:@"%ld",(long)value];
     childCellModel.value = strValue;
     parentCellModel.primaryTitle = strValue;
     [self reloadData];
